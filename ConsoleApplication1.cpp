@@ -92,7 +92,7 @@ int menu(string mm[], int size, int punkt) {
 	return vibor;
 }
 
-void zastavka() {
+void zastavka() { //Анимация заставки
 	vector<string> bigM = {
 		"##             ##",
 		"###           ###",
